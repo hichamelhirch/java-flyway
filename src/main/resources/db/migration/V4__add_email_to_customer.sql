@@ -1,0 +1,2 @@
+ALTER TABLE Customer
+    ADD email VARCHAR(255)  UNIQUE ;
